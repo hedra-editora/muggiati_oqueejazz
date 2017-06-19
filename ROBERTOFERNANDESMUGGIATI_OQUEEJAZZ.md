@@ -1,53 +1,10 @@
-> ![](media/image1.png){width="0.14805008748906387in"
-> height="0.1391382327209099in"}coleção primeiros
->
-> ![](media/image2.png){width="0.1463746719160105in"
-> height="0.13463254593175852in"}![](media/image3.png){width="0.2554166666666667in"
-> height="0.16841754155730534in"}![](media/image4.png){width="0.13014326334208223in"
-> height="0.12015419947506562in"}93 passos
->
-> **O QUE É JAZZ**
->
-> editora brasiliense
->
-> *Copyright ©* by Roberto Muggiati Nenhuma parte desta publicação pode
-> ser gravada, armazenada em sistemas eletrônicos, fotocopiada,
->
-> reproduzida por meios mecânicos ou outros quaisquer sem autorização
-> prévia da editora.
->
-> Primeira edição, 1983
->
-> 3ª edição, 1989
->
-> 2ª reimpressão, 2008
->
-> Revisão: *Luis R. S. Malta*
->
-> Capa e ilustrações: *Ettore Bottini*
->
-> **Dados Internacionais de catalogação na Publicação (CIP) (Câmara
-> Brasileira do Livro, SP, Brasil)**
->
-> **Índices para catálogo sistemático:**
+*Para o Robertinho,* 
+*que batucou muitas teclas comigo,* 
+*e para e Lena,*
+*que corrigiu nossos erros,* 
+*com muito amor.*
 
-1.  Jazz : Música 781-57
-
-> **editora e livraria brasiliense**
->
-> Rua Mourato Coelho, 111 – Pinheiros Cep 05417-010 – São Paulo – SP
->
-> Fone/Fax: (0xx11) 2098-1488
-> [www.editorabrasiliense.com.br](http://www.editorabrasiliense.com.br/)
->
-> **ÍNDICE**
->
-> *Para o Robertinho, que batucou muitas teclas comigo, e para e Lena,*
->
-> *que corrigiu nossos erros, com muito amor.*
-
-J\*\*\*
-=======
+# J\*\*\*
 
 *Jass, jas, jaz, jasz, jazz* — A palavra é tão enig- mática como a
 música. São quatro letras e, em in- glês, *four-letter Word* quer dizer
@@ -126,7 +83,7 @@ países (a bossa-nova é um exemplo), é pos- sível ouvir, na perspectiva
 dos anos 70/80, muito *jazz* (Keith Jarrett, Anthony Braxton) quase sem
 ne-
 
-> nhum uso para as *blue notes.*
+nhum uso para as *blue notes.*
 
 O ritmo no *jazz* é o resultado da fusão (ou confu- são) da polirritmia
 africana com os ritmos de origem européia. Desse conflito básico nasceu
@@ -192,11 +149,10 @@ homens que a criaram, transformaram e, em muitos casos, revolucionaram.
 
 ![](media/image5.png){width="3.4436122047244093in" height="3.59in"}
 
-> *Lester Young (alto), Thelonius Monk (abaixo), Charles Mingus
-> (direita)*
+*Lester Young (alto), Thelonius Monk (abaixo), Charles Mingus
+(direita)*
 
-VOZES DA ÁFRICA
-===============
+# Vozes da África
 
 O *jazz* nasceu de um ato de violência, com o ne- gro arrancado da
 Africa para trabalhar em outra ter- ra, do outro lado do oceano. Ninguém
@@ -312,30 +268,30 @@ marretas ou ma- chados, o levantamento de cargas etc. Em certos
 casos, a *work-song* descrevia a tarefa específica, como esta usada para
 descarregar trilhos:
 
-> ***Walk to the car, ateady yourself. Head high! Throw it away!***
->
-> ***That’s Jurt right.***
->
-> ***Go back and get another one.***
->
-> (Vá atá o carro, caminhe reto. Cabeça erguida!
->
-> Agora pode largar! Assim,muito bem.
->
-> Volte lá e pegue outro.)
+***Walk to the car, ateady yourself. Head high! Throw it away!***
+
+***That’s Jurt right.***
+
+***Go back and get another one.***
+
+(Vá atá o carro, caminhe reto. Cabeça erguida!
+
+Agora pode largar! Assim,muito bem.
+
+Volte lá e pegue outro.)
 
 Muitas canções de trabalho obedeciam ao es- quema de chamada-e-resposta,
 como esta, docu- mentada neste século numa prisão do Sul dos Esta- dos
 Unidos:
 
-> ***Leader: I wonder what’s the matter. Workers: Oh-o, Lawd.***
->
-> ***Leader: Wel ll wonder what’s the rnatter with my long time here.***
->
-> (Feitor: Eu me pergunto o que há de errado. Trabalhadores: Oh-o,
-> Senhor.
->
-> Feitor: Me pergunto o que há de errado com minha longa pena aqui.)
+***Leader: I wonder what’s the matter. Workers: Oh-o, Lawd.***
+
+***Leader: Wel ll wonder what’s the rnatter with my long time here.***
+
+(Feitor: Eu me pergunto o que há de errado. Trabalhadores: Oh-o,
+Senhor.
+
+Feitor: Me pergunto o que há de errado com minha longa pena aqui.)
 
 Neste e em outros casos, a *work-song* não se refere diretamente à
 tarefa que está sendo execu-
@@ -403,16 +359,16 @@ popu- lar do século 20 foi o *blues.* Sua estrutura básica é a estrofe
 de doze compassos – dividida em três ver- sos de quatro compassos, em
 que o segundo geral- mente repete o primeiro:
 
-> ***You may bury my body down by the hilghway side You may bury my body
-> down by the highway side***
->
-> ***So my oid evil spirit can get a Greyhound bUI and ride.***
->
-> (Pode enterrar meu corpo à margem da auto-estrada Pode enterrar meu
-> corpo à margem da auto-estrada Para que meu velho espírito mau possa
-> pegar um ônibus
->
-> Greyhound e se mandar.)
+***You may bury my body down by the hilghway side You may bury my body
+down by the highway side***
+
+***So my oid evil spirit can get a Greyhound bUI and ride.***
+
+(Pode enterrar meu corpo à margem da auto-estrada Pode enterrar meu
+corpo à margem da auto-estrada Para que meu velho espírito mau possa
+pegar um ônibus
+
+Greyhound e se mandar.)
 
 A métrica do *blues* é uma das mais clássicas de toda a literatura: o
 pentâmetro jâmbico; O maestro Leonard Bernstein, um apaixonado e até
@@ -422,10 +378,10 @@ compositor de *blues,* ilustrou essa característica em seu disco O *Que
 É Jazz* tocando e cantando um *Macbeth Blues,* baseado num importante
 trecho da peça de Shakespeare:
 
-> ***I will not be afraid of death and bane I will not be afraid of
-> death and bane***
->
-> ***TiII Birnam forest come to Dunsinane.*** (Ato V. Cena III)
+***I will not be afraid of death and bane I will not be afraid of
+death and bane***
+
+***TiII Birnam forest come to Dunsinane.*** (Ato V. Cena III)
 
 Para alguns pesquisadores, a estrofe do *blues* viria das antigas
 baladas anglo-saxônicas – as *ballits* que o negro conheceu na América.
@@ -448,16 +404,16 @@ na última hora o intento suicida (se é que havia algum: o *blues* é tão
 irônico que nunca se saberá se o personagem deste que- ria realmente
 morrer):
 
-> ***I’m going down and lay my head on the railroad track I’m going down
-> and lay my head on the railroad track When the traln come along I ‘ m
-> gonna Inatch it back.***
->
-> O que seria mais ou menos isso:
->
-> (Eu vou lá, vou botar a cabeça no trilho pra morrer Eu vou lá, vou
-> botar a cabeça no trilho pra morrer
->
-> Mas quando o trem chegar eu livro minha cabeça, podes crer.)
+***I’m going down and lay my head on the railroad track I’m going down
+and lay my head on the railroad track When the traln come along I ‘ m
+gonna Inatch it back.***
+
+O que seria mais ou menos isso:
+
+(Eu vou lá, vou botar a cabeça no trilho pra morrer Eu vou lá, vou
+botar a cabeça no trilho pra morrer
+
+Mas quando o trem chegar eu livro minha cabeça, podes crer.)
 
 A principal característica da melodia do *blues* é a *blue note* – a
 bemolização (diminuição de meio-tom) da terceira e da sétima notas
@@ -470,12 +426,12 @@ beleza e originalidade. Das mar- gens lamacentas do Mississipi, as
 *blues notes,* em menos de cem anos, se infiltraram pela música do mundo
 inteiro. (Até a erudita: já em 1923 Darius
 
-> Milhaud apresentava o seu balé *La Création du Monde* e, no ano
-> seguinte, era a vez de Gershwin com a *Rhapsody in Blue.* Em 1927 o
-> alemão Krenek lançava a ópera *Johnny Spielt Auf,* sobre um violi-
-> nista de *jazz* negro.) Por outro lado, o *blues,* no iní- cio uma
-> forma essencialmente vocal, iria desembo- car *no jazz* quando começou
-> a ser adaptado para os instrumentos europeus.
+Milhaud apresentava o seu balé *La Création du Monde* e, no ano
+seguinte, era a vez de Gershwin com a *Rhapsody in Blue.* Em 1927 o
+alemão Krenek lançava a ópera *Johnny Spielt Auf,* sobre um violi-
+nista de *jazz* negro.) Por outro lado, o *blues,* no iní- cio uma
+forma essencialmente vocal, iria desembo- car *no jazz* quando começou
+a ser adaptado para os instrumentos europeus.
 
 Por esta mesma época – parece que não houve na história da música uma
 fermentação cultural tão intensa quanto a da segunda metade do século 19
@@ -516,10 +472,7 @@ de contrastes. Mas, por trás de cada nota do *jazz,* se podiam ouvir
 ainda aquelas vozes de um passado distante, de uma terra distante: a
 África.
 
-NOVA ORLEANS
-============
-
-> POLIFONIA ÀS MARGENS DO MISSISSIPI
+# Nova Orleans: polifonia às margens do Mississipi
 
 Das muitas lendas em torno do *jazz,* uma é ver- dade: ele nasceu mesmo
 em Nova Orleans. Muitos fatores contribuíram para que esta cidade
@@ -556,15 +509,15 @@ ruas da cida- de, desfilando em coloridas paradas ou fazendo pro-
 paganda do alto de carroções puxados a cavalo. O guitarrista Danny
 Barker descreve o clima quase mágico da Nova Orleans daqueles tempos:
 
-> *“Uma das memórias mais agradáveis da minha infân- cia em Nova
-> Orleans, era a de um bando de garotos brin- cando que, de repente,
-> ouvia sons. Era como se fosse um fenômeno, como a aurora boreal,
-> talvez. Os sons de ho- mens tocando pareciam tão claros, mas nós não
-> tínha- mos certeza de onde eles vinham. Então começávamos a trotar,
-> começávamos a correr – “É pra cá! É pra lá!” E as vezes, depois de
-> correr por algum tempo, ainda não tínha- mos encontrado a música. Mas
-> aquela música podia sur- gir de novo, de repente. A cidade estava
-> cheia dos sons, de música.*
+*“Uma das memórias mais agradáveis da minha infân- cia em Nova
+Orleans, era a de um bando de garotos brin- cando que, de repente,
+ouvia sons. Era como se fosse um fenômeno, como a aurora boreal,
+talvez. Os sons de ho- mens tocando pareciam tão claros, mas nós não
+tínha- mos certeza de onde eles vinham. Então começávamos a trotar,
+começávamos a correr – “É pra cá! É pra lá!” E as vezes, depois de
+correr por algum tempo, ainda não tínha- mos encontrado a música. Mas
+aquela música podia sur- gir de novo, de repente. A cidade estava
+cheia dos sons, de música.*
 
 Quando se fala do *jazz* inicial, subentende-se a música dos negros. Mas
 as coisas não eram assim tão simples em Nova Orleans. Lá havia os negros
@@ -661,14 +614,14 @@ A esta altura, já se havia delineado um formato da *jazz-band,* quase
 tão “clássico” quanto o quarte- to de cordas erudito, ou o quinteto de
 sopros. Era basicamente este:
 
-> *1 ou 2 cornetas (ou trompetes) clarineta*
->
-> *trombone*
->
-> *tuba (ou sousafone ou baixo de cordas) banjo (ou guitarra ou piano)*
->
-> *bateria (ou tábua de lavar roupa ou bombos ou outros tipos de
-> percussão)*
+*1 ou 2 cornetas (ou trompetes) clarineta*
+
+*trombone*
+
+*tuba (ou sousafone ou baixo de cordas) banjo (ou guitarra ou piano)*
+
+*bateria (ou tábua de lavar roupa ou bombos ou outros tipos de
+percussão)*
 
 O líder deste agrupamento era a corneta, depois substituída pelo
 trompete. Já em 1838 o jornal *Picay- une,* de Nova Orleans, relatava
@@ -695,14 +648,14 @@ Ellington escolheu o primeiro Rei da Corneta como protagonista de um
 filme musicado que ia fazer com Orson Welles, mas, infelizmente, não
 chegou a ser rodado. O próprio Duke descreve:
 
-> *“A primeira cena acontecia em Nova Orleans, com um barco se
-> aproximando pelo canal e o Rei dos Zulus de- sembarcando no cais de
-> Basin Street. O Rei dos Zulus era o negro mais importante da cidade;
-> cada ano era eleito um, na verdade isto ainda ocorre. E a cena de
-> abertura mostra- ria esta grande festividade de coroação na Praça do
-> Congo, onde são reconstituídos quadros e rituais dos dias da es-
-> cravidão, com todo o seu simbolismo sexual e religioso e suas danças.
-> E, naquele ano justamente, Buddy Solden ia ser o Rei dos Zulus.”*
+*“A primeira cena acontecia em Nova Orleans, com um barco se
+aproximando pelo canal e o Rei dos Zulus de- sembarcando no cais de
+Basin Street. O Rei dos Zulus era o negro mais importante da cidade;
+cada ano era eleito um, na verdade isto ainda ocorre. E a cena de
+abertura mostra- ria esta grande festividade de coroação na Praça do
+Congo, onde são reconstituídos quadros e rituais dos dias da es-
+cravidão, com todo o seu simbolismo sexual e religioso e suas danças.
+E, naquele ano justamente, Buddy Solden ia ser o Rei dos Zulus.”*
 
 Fato e lenda estão de tal maneira entrelaça- dos na história de B uddy
 Bolden (1868-1931) que é difícil saber ao certo quem foi e o que fez.
@@ -727,26 +680,26 @@ que definia como *“calling my children home”* – “chamando as crianças
 para casa.” Num esforço de arqueologia sonora, Marquis tenta
 reconstituir a música de Bolden:
 
-> *“Alguns ridicularizavam Jelly Roll por dizer que era possível ouvir
-> Buddy a uma grande distância; outros, dis- seram que o ouviam
-> perfeitamente em Nova Orleans, quan- do ele tocava do outro lado do
-> rio, em Gratna. Muitas pes- soas ofereceram explicações para o
-> fenômeno. A distân- cia entre o centro da cidade e Lincoln Park
-> parecia maior do que na realidade era, pois, embora a viagem de bonde
-> fosse de seis milhas ou mais, em linha reta equivalia a duas milhas.
-> Buddy também tocava deliberadamente alto, algumas vezes. Muitos
-> espetáculos musicais eram ao ar livre (. . . ) ou então bailes em que
-> a música tinha de chegar até o fundo do salão, sem a ajuda de um
-> microfone. (. . .) Manuel Manetta salientou também que, ‘naqueles
-> dias, sem ruídos de trânsito, era surpreendente como se podiam ouvir
-> os sons ao longe, especialmente sobre a água.’ Manetta vivia do outro
-> lado do rio e jura que, da margem, podia ouvir Bolden tocando no Globe
-> Hall: ‘Numa noite silenciosa, era difícil não ouvir uma banda
-> barulhenta.’ Danny Barker deu outra explicação, dizendo que Nova
-> Orleans fica abaixo do nível do mar, numa planície espon- josa, e atua
-> como uma câmara de eco. A música reverbera, em vez de ser absorvida; e
-> o som viaja a longas distâncias no ar úmido, sobre o terreno
-> impregnado de água.”*
+*“Alguns ridicularizavam Jelly Roll por dizer que era possível ouvir
+Buddy a uma grande distância; outros, dis- seram que o ouviam
+perfeitamente em Nova Orleans, quan- do ele tocava do outro lado do
+rio, em Gratna. Muitas pes- soas ofereceram explicações para o
+fenômeno. A distân- cia entre o centro da cidade e Lincoln Park
+parecia maior do que na realidade era, pois, embora a viagem de bonde
+fosse de seis milhas ou mais, em linha reta equivalia a duas milhas.
+Buddy também tocava deliberadamente alto, algumas vezes. Muitos
+espetáculos musicais eram ao ar livre (. . . ) ou então bailes em que
+a música tinha de chegar até o fundo do salão, sem a ajuda de um
+microfone. (. . .) Manuel Manetta salientou também que, ‘naqueles
+dias, sem ruídos de trânsito, era surpreendente como se podiam ouvir
+os sons ao longe, especialmente sobre a água.’ Manetta vivia do outro
+lado do rio e jura que, da margem, podia ouvir Bolden tocando no Globe
+Hall: ‘Numa noite silenciosa, era difícil não ouvir uma banda
+barulhenta.’ Danny Barker deu outra explicação, dizendo que Nova
+Orleans fica abaixo do nível do mar, numa planície espon- josa, e atua
+como uma câmara de eco. A música reverbera, em vez de ser absorvida; e
+o som viaja a longas distâncias no ar úmido, sobre o terreno
+impregnado de água.”*
 
 Infelizmente, do sopro mitológico de Buddy Bolden não restou nenhum
 registro físico. Houve rumores de que existiria um cilindro, gravado
@@ -811,16 +764,13 @@ cidade de sonho – o fabuloso berço do *jazz* nos anos 1900.
 ![](media/image6.png){width="3.3670352143482063in"
 height="2.3366666666666664in"}
 
-> *King Oliver’s Creole Jazz Band.* Na frente: *Louis Armstrong e Lil
-> Hardin.* Atrás da esquerda para a direita: *Honore Dutrey, Baby Dodds,
-> King Oliver, Bill Johnson*
->
-> *e Johnny Dodds.*
+*King Oliver’s Creole Jazz Band.* Na frente: *Louis Armstrong e Lil
+Hardin.* Atrás da esquerda para a direita: *Honore Dutrey, Baby Dodds,
+King Oliver, Bill Johnson*
 
-CHICAGO, ANOS 20
-================
+*e Johnny Dodds.*
 
-> NASCE O SOLISTA
+# Chicago, anos 20: nasce o solista
 
 A nova música deu o nome a toda uma época os turbulentos anos 1920 –
 marcando o seu espírito com um irresistível ritmo sincopado e a maneira
@@ -1053,21 +1003,21 @@ conhecidos como Austin
 High School Gang, dá a sua versão de como se exer- ceu este fascínio da
 música negra:
 
-> *“Para mim e para os outros caras da Austin atacados pelo vírus da
-> música, o* jazz *proporcionava a emoção que, não fosse ele, teríamos
-> ido procurar entre as atividades ilegais que floresciam então na nossa
-> vizinhança. Todo dia depois das aulas íamos a um lugarzinho chamado
-> Spoon and Straw, uma sorveteria onde serviam soda,* milk shakes*,*
-> sundaes *e coisas do gênero. Mas lá havia uma vitrola e ficávamos
-> sentados ouvindo os discos empilhados sobre a mesa. Paul Whiteman, Ted
-> Lewis – uma música que não mexia muito com a gente. Um dia, no
-> entanto, surgiu uma nova remessa de discos. Era dos New Orleans Rhythm
-> Kings e creio que a primeira música que botamos na vitrola foi*
-> Farewell Blues*. Rapaz, quando ouvimos aqui- lo – ficamos malucos.
-> Todo mundo pirou. Era maravilhoso. Ficávamos na sorveteria das três
-> até as oito da noite, ouvindo aqueles discos, um depois do outro. Foi
-> então que resolvemos, ali mesmo, formar uma orquestra e tocar como
-> aqueles sujeitos.”*
+*“Para mim e para os outros caras da Austin atacados pelo vírus da
+música, o* jazz *proporcionava a emoção que, não fosse ele, teríamos
+ido procurar entre as atividades ilegais que floresciam então na nossa
+vizinhança. Todo dia depois das aulas íamos a um lugarzinho chamado
+Spoon and Straw, uma sorveteria onde serviam soda,* milk shakes*,*
+sundaes *e coisas do gênero. Mas lá havia uma vitrola e ficávamos
+sentados ouvindo os discos empilhados sobre a mesa. Paul Whiteman, Ted
+Lewis – uma música que não mexia muito com a gente. Um dia, no
+entanto, surgiu uma nova remessa de discos. Era dos New Orleans Rhythm
+Kings e creio que a primeira música que botamos na vitrola foi*
+Farewell Blues*. Rapaz, quando ouvimos aqui- lo – ficamos malucos.
+Todo mundo pirou. Era maravilhoso. Ficávamos na sorveteria das três
+até as oito da noite, ouvindo aqueles discos, um depois do outro. Foi
+então que resolvemos, ali mesmo, formar uma orquestra e tocar como
+aqueles sujeitos.”*
 
 O músico-símbolo do estilo de Chicago nasceu em uma família da alta
 classe média, descendente de alemães, a mais de mil quilômetros de Nova
@@ -1142,10 +1092,7 @@ vida americana, mas também a década que tinha dado o melhor da música de
 Armstrong e Jelly Roll, de Bix e das Rainhas do Blues. A Era do *Jazz*
 chegava ao fim. A Era do *Swing* ia começar.
 
-A ERA DO SWING
-==============
-
-> O JAZZ NA LINHA DE MONTAGEM
+# A era do swing: o jazz na linha de montagem
 
 Ao mesmo tempo que dava ritmo aos *roaring twenties,* o *jazz* sofria
 também o efeito de várias transformações. Os discos faziam da nova
@@ -1331,21 +1278,21 @@ Mary Lou Williams relatou o que foi talvez o “duelo do século”, opondo
 dois dos maiores tenoristas do *jazz,* de escolas totalmente opostas,
 Coleman Haw- kins e Lester Young:
 
-> *“Hawk não sabia qua os tenores de Kansas City eram tão temíveis.
-> Quando chegamos* \[Mary Lou foi acordada no meio da noite para
-> substituir um pianista extenuado\] *ele estava lá, de camiseta,
-> duelando. Parecia ter topado com um obstáculo inesperado. O estilo de
-> Lester era leve e ele precisava de uns cinco choruses para esquentar.
-> Mas então soprava para valer e ninguém conseguia segurá-lo numa
-> batalha de saxofone. Foi assim qua Hawkins perdeu a invencibilidade.
-> Sua banda ia tocar em St. Louis naquela noite e Hawk sabia que era
-> hora de pegar a estrada. Mas continuava soprando, tentando encontrar
-> idéias para der- rubar Ben* \[Webster\] *Hershel* \[Evans\] *e Lester.
-> Quando finalmante desistiu, sentou-se direto ao volante e partiu para
-> St. Louis. Ele acabara de comprar um Cadillac novi- nho em folha e
-> fundiu a máquina tentando chegar a tempo em St. Louis. Sim, Hawkins
-> foi rei até o dia em que se defrontou com aqueles incríveis tenoristas
-> de Kansas City.”*
+*“Hawk não sabia qua os tenores de Kansas City eram tão temíveis.
+Quando chegamos* \[Mary Lou foi acordada no meio da noite para
+substituir um pianista extenuado\] *ele estava lá, de camiseta,
+duelando. Parecia ter topado com um obstáculo inesperado. O estilo de
+Lester era leve e ele precisava de uns cinco choruses para esquentar.
+Mas então soprava para valer e ninguém conseguia segurá-lo numa
+batalha de saxofone. Foi assim qua Hawkins perdeu a invencibilidade.
+Sua banda ia tocar em St. Louis naquela noite e Hawk sabia que era
+hora de pegar a estrada. Mas continuava soprando, tentando encontrar
+idéias para der- rubar Ben* \[Webster\] *Hershel* \[Evans\] *e Lester.
+Quando finalmante desistiu, sentou-se direto ao volante e partiu para
+St. Louis. Ele acabara de comprar um Cadillac novi- nho em folha e
+fundiu a máquina tentando chegar a tempo em St. Louis. Sim, Hawkins
+foi rei até o dia em que se defrontou com aqueles incríveis tenoristas
+de Kansas City.”*
 
 Lester Young (1909-1959) foi um dos primeiros modernistas do *jazz.*
 Nasceu no interior do Mississipi e viveu os dez primeiros anos em Nova
@@ -1455,12 +1402,9 @@ seriam apenas mudanças, mas uma verdadeira revolução.
 ![](media/image10.png){width="2.750204505686789in"
 height="3.7266666666666666in"}
 
-> *Lester Young.*
+*Lester Young.*
 
-BE-BOP
-======
-
-> A REVOLUÇÃO DO *JAZZ* MODERNO
+# Be-bop: a revolução do *jazz* moderno
 
 Assim como o *jazz* não nasceu num bordei de Nova Orleans, o *be-bop*
 não nasceu numa boate do Harlem chamada Minton’s Playhouse, como alegam
@@ -1479,26 +1423,26 @@ músicos tinha antes que atender a seus compro- missos tocando em grandes
 orquestras ou em ca- barés. Dizzy Gillespie, o trompetista que seria um
 dos principais artífices do novo som, lembra:
 
-> *“Nenhum homem ou grupo de homens iniciou* o jazz *moderno, mas uma
-> das maneiras como ele aconteceu foi esta: alguns de nós passamos* a
-> *“jamear” no Minton’s no começo dos anos 40. O problema é que
-> apareciam sempre por lá uns caras que não sabiam tocar e gastavam um
-> tempo enorme para provar isso no palco. Assim, nas tar- des antes de
-> uma* jam session, *Thelonious Monk e eu co- meçamos a bolar algumas
-> variações de acordes mais com- plicadas e outros macetes e usávamos
-> isto à noite para afugentar os caras sem talento. Com o tempo, fomos
-> fican- do cada vez mais interessados musicalmente naquilo que fazíamos
-> e, quando exploramos mais fundo a coisa, nossa música evoluiu.”*
->
-> Thelonious Monk dá também a sua versão:
->
-> *“Eu não tinha nenhuma idéia de que algo de novo esti- vesse sendo
-> criado. É verdade que o* jazz *moderno come- çou a se popularizar no
-> Minton’s, mas algumas destas estórias e artigos comprimem em um ano o
-> que aconteceu em dez. Amontoam todo mundo na mesma época e no mes- mo
-> lugar. Eu vi praticamente todos os músicos de* jazz *no Minton’s , mas
-> estavam simplesmente tocando. Não esta- vam fazendo nenhuma
-> palestra.”*
+*“Nenhum homem ou grupo de homens iniciou* o jazz *moderno, mas uma
+das maneiras como ele aconteceu foi esta: alguns de nós passamos* a
+*“jamear” no Minton’s no começo dos anos 40. O problema é que
+apareciam sempre por lá uns caras que não sabiam tocar e gastavam um
+tempo enorme para provar isso no palco. Assim, nas tar- des antes de
+uma* jam session, *Thelonious Monk e eu co- meçamos a bolar algumas
+variações de acordes mais com- plicadas e outros macetes e usávamos
+isto à noite para afugentar os caras sem talento. Com o tempo, fomos
+fican- do cada vez mais interessados musicalmente naquilo que fazíamos
+e, quando exploramos mais fundo a coisa, nossa música evoluiu.”*
+
+Thelonious Monk dá também a sua versão:
+
+*“Eu não tinha nenhuma idéia de que algo de novo esti- vesse sendo
+criado. É verdade que o* jazz *moderno come- çou a se popularizar no
+Minton’s, mas algumas destas estórias e artigos comprimem em um ano o
+que aconteceu em dez. Amontoam todo mundo na mesma época e no mes- mo
+lugar. Eu vi praticamente todos os músicos de* jazz *no Minton’s , mas
+estavam simplesmente tocando. Não esta- vam fazendo nenhuma
+palestra.”*
 
 A própria banda “da casa”, no Minton’s, era um agrupamento heterogêneo,
 como se pode ouvir nas raras gravações feitas com o equipamento precário
@@ -1586,18 +1530,18 @@ dimensão para o *jazz* e os efeitos desta mudança se fariam sentir
 decisivamente nos anos 50, que se encerrariam já com o som es-
 tereofônico, feito sob medida para o *jazz.*
 
-> Outro importante aspecto inovador do *be-bop* foi o do repertório.
-> Além dos *standards* (conhecidos temas populares) favoritos dos
-> *jazzmen,* que ofere- ciam uma boa ossatura harmônica – os *boppers*
-> pas- saram a improvisar quase exclusivamente sobre os acordes – os
-> modernistas começaram a criar melo- dias inteiramente novas sobre a
-> “grade” harmônica modificada de canções conhecidas. Assim, surgiram
-> composições originais *(originais)* como *Anthropology* (baseado em *I
-> Got Rhythm), Ornithology* (em *How High the Moon), Scrapple from the
-> Apple* (em *Honeysuckle Rose), Hot House* (em *What Is This*
->
-> *Thing Called Love?)* e esta prática se tornaria ge- neralizada em
-> pouco tempo.
+Outro importante aspecto inovador do *be-bop* foi o do repertório.
+Além dos *standards* (conhecidos temas populares) favoritos dos
+*jazzmen,* que ofere- ciam uma boa ossatura harmônica – os *boppers*
+pas- saram a improvisar quase exclusivamente sobre os acordes – os
+modernistas começaram a criar melo- dias inteiramente novas sobre a
+“grade” harmônica modificada de canções conhecidas. Assim, surgiram
+composições originais *(originais)* como *Anthropology* (baseado em *I
+Got Rhythm), Ornithology* (em *How High the Moon), Scrapple from the
+Apple* (em *Honeysuckle Rose), Hot House* (em *What Is This*
+
+*Thing Called Love?)* e esta prática se tornaria ge- neralizada em
+pouco tempo.
 
 Além destes temas, alguns músicos do *bop* con- tinuaram a improvisar
 também sobre os *blues.* Foi o caso de Charlie Parker (1920-1955),
@@ -1652,17 +1596,17 @@ americano, *Cherokee* era um tema intrincado e longo, de 64 compassos,
 com várias modulações e complexas seqüências de acordes, particularmente
 na segunda parte *(bridge).* O pró- prio Parker conta:
 
-> *“Lembro de uma noite em que eu estava ‘’jameando’’ numa espelunca da
-> Sétima Avenida, entre as ruas 139 e*
->
-> *140. Era dezembro de 1939. Eu achava um saco aqueles acordes
-> estereotipados que a gente usava o tempo todo. E sentia que devia
-> existir uma outra coisa, diferente. As ve- zes podia ouvi-la, mas era
-> incapaz de tocá-la. Pois bem: naquela noite, improvisando sobre
-> Cherokee, descobri que usando os intervalos mais altos de um acorde
-> como linha melódica e escorando-os com acordes adequados, eu po- dia
-> tocar aquilo que vinha ouvindo há muito tempo. Foi como se tivesse
-> nascido de novo.”*
+*“Lembro de uma noite em que eu estava ‘’jameando’’ numa espelunca da
+Sétima Avenida, entre as ruas 139 e*
+
+*140. Era dezembro de 1939. Eu achava um saco aqueles acordes
+estereotipados que a gente usava o tempo todo. E sentia que devia
+existir uma outra coisa, diferente. As ve- zes podia ouvi-la, mas era
+incapaz de tocá-la. Pois bem: naquela noite, improvisando sobre
+Cherokee, descobri que usando os intervalos mais altos de um acorde
+como linha melódica e escorando-os com acordes adequados, eu po- dia
+tocar aquilo que vinha ouvindo há muito tempo. Foi como se tivesse
+nascido de novo.”*
 
 Em fins de 1941 ou começo de 1942, Parker gra- vou, na orquestra de Jay
 McShann, um pequeno solo em *Cherokee* que já antecipava a revolução do
@@ -1719,10 +1663,10 @@ completou: o boêmio e o delinqüente juvenil se viram face a face com o
 negro, e o *hipster* se tornou um fato na vida americana.” O *hipster* –
 o cara avan-
 
-> çado, por dentro das coisas –, nascido nos anos do pós-guerra, da
-> bomba A e da Guerra Fria, seria um *soul brother,* um irmão espiritual
-> do *jazzman* negro e um precursor dos *hippies* dos anos 60 (a palavra
-> *hippie* veio de *hipster).*
+çado, por dentro das coisas –, nascido nos anos do pós-guerra, da
+bomba A e da Guerra Fria, seria um *soul brother,* um irmão espiritual
+do *jazzman* negro e um precursor dos *hippies* dos anos 60 (a palavra
+*hippie* veio de *hipster).*
 
 O novo herói americano nada mais tinha daque- les personagens de
 Hemingway que saíam pelo mundo em busca de guerras justas e de touradas,
@@ -1784,10 +1728,7 @@ afirmou: “o *bop* é a músi-
 
 ca do futuro.”
 
-OS ANOS 50
-==========
-
-> DO *COOL* AO *FREE:* O CHOQUE DO FUTURO
+# Os anos 50: do *cool* ao *free:* o choque do futuro
 
 Para um movimento que se pretendia de rebe- lião, *bop* tinha de ser
 contra alguma coisa. E esco- lheu seu oposto natural, o *hot:* menos a
@@ -1921,25 +1862,25 @@ traçados por artistas negros.
 Pode-se dizer que os anos 50 foram dominados pela Santíssima Trindade
 dos M: Miles, Monk e
 
-> Mingus. A contribuição de Miles Davis já foi analisa- da neste
-> capítulo; e ele continuaria fazendo do *jazz* uma revolução
-> permanente, como veremos na se- qüência do livro. Thelonious Sphere
-> Monk (1920- 1982) não só nasceu com um nome excêntrico (e este *era* o
-> seu verdadeiro nome), mas também se firmou como um gênio isolado na
-> história do *jazz.* Ele sozinho foi sua própria escola e não formou
-> se- guidores porque sua música, de tão pessoal que era, não admitia
-> imitações. A linguagem monkiana é uma espécie de código secreto do
-> qual apenas ele tem as chaves e as tentativas de cópia caem sempre no
-> ridículo e na caricatura. Ao contrário de Miles, que fez do *jazz* uma
-> sucessão horizontal de “modas”, Monk efetuou um corte vertical na
-> história do *jazz,* com um estilo virtualmente intemporal. Te- mas tão
-> estranhos como seus títulos *(Misterioso, Epistrophy, Introspection)*
-> ou de complexa geome- tria formal *(Criss Cross, Gallop’s Gallop,
-> Rhythma- ning)* coexistem pacificamente com suas belas ba- ladas
-> *(Round About Midnight, Ruby My Dear, Crepuscule With Nellie)* e com
-> os *poucos standards* que explorava em piano solo com um lirismo
-> obses- sivo *(Smoke Gets in Your Eyes, Just a Gigolo, These Foolish
-> Things).*
+Mingus. A contribuição de Miles Davis já foi analisa- da neste
+capítulo; e ele continuaria fazendo do *jazz* uma revolução
+permanente, como veremos na se- qüência do livro. Thelonious Sphere
+Monk (1920- 1982) não só nasceu com um nome excêntrico (e este *era* o
+seu verdadeiro nome), mas também se firmou como um gênio isolado na
+história do *jazz.* Ele sozinho foi sua própria escola e não formou
+se- guidores porque sua música, de tão pessoal que era, não admitia
+imitações. A linguagem monkiana é uma espécie de código secreto do
+qual apenas ele tem as chaves e as tentativas de cópia caem sempre no
+ridículo e na caricatura. Ao contrário de Miles, que fez do *jazz* uma
+sucessão horizontal de “modas”, Monk efetuou um corte vertical na
+história do *jazz,* com um estilo virtualmente intemporal. Te- mas tão
+estranhos como seus títulos *(Misterioso, Epistrophy, Introspection)*
+ou de complexa geome- tria formal *(Criss Cross, Gallop’s Gallop,
+Rhythma- ning)* coexistem pacificamente com suas belas ba- ladas
+*(Round About Midnight, Ruby My Dear, Crepuscule With Nellie)* e com
+os *poucos standards* que explorava em piano solo com um lirismo
+obses- sivo *(Smoke Gets in Your Eyes, Just a Gigolo, These Foolish
+Things).*
 
 Nascido na Carolina do Norte, Monk mudou-se ainda criança para Nova
 lorque, onde morou a mai- or parte de sua vida num pequeno apartamento
@@ -2093,12 +2034,9 @@ pensar no seu futuro. E a se perguntar se tinha realmente um futuro.
 
 ![](media/image11.png)
 
-> *Ornette Coleman.*
+*Ornette Coleman.*
 
-A CRISE DOS 60, 70, 80 etc.
-===========================
-
-> *JAZZ* OU MÚSICA IMPROVISADA CONTEMPORÃNEA?
+# A crise dos 60, 70, 80 etc.: *jazz* ou música improvisada contemporãnea?
 
 Para muitos, o *rock* foi o vilão da história. Em outras palavras: o
 aparecimento de Dylan, dos Beatles e dos Rolling Stones seria a causa
@@ -2113,10 +2051,10 @@ Davis é John Coltrane. Coltrane, aliás, ficaria como um símbolo destes
 anos críticos. Ao iniciar sua fase modal, ele mergulhou em outras
 dimensões e tradições musi-
 
-> cais: a africana *(África Brass, Kulu Sé Mama),* a es- panhola
-> *(Olé),* a indiana (Om). O *mainstream,* a cor- rente principal do
-> *jazz,* parecia ter secado para Coltrane e, antes de morrer – aos 40
-> anos, em 1967
+cais: a africana *(África Brass, Kulu Sé Mama),* a es- panhola
+*(Olé),* a indiana (Om). O *mainstream,* a cor- rente principal do
+*jazz,* parecia ter secado para Coltrane e, antes de morrer – aos 40
+anos, em 1967
 
 – ele se entregava a longos e torturados solos de inspiração mística
 numa busca angustiada do ab- soluto musical.
@@ -2217,20 +2155,20 @@ tradicional e as *blue notes* estão virtualmente ausentes da música
 deste jovem negro, embora em dois álbuns, *In The Tradition,* ele tenha
 mostrado que é perfeitamente capaz de “suingar” e tocar *blues.*
 
-> Nos seus piores momentos, a música de Jarrett e Braxton consegue ser
-> tão pretensiosa e insossa como a dos eruditos norte-americanos
-> contempo- râneos e tão cansativa e glacial como as propostas da
-> vanguarda experimental. Mas há bons momen- tos – como o *Kon Concert*
-> de Jarrett e os *Montreux*/ *Berlin Concerts* de Braxton, ou suas
-> colaborações com o baterista Max Roach – em que eles trazem uma vida
-> realmente nova para o *jazz,* num momen- to em que todos os caminhos
-> pareciam já trilhados. No final da década de 60, nos anos do *Black
-> Power,* o *jazz* foi usado como uma arma política, correndo muitas
-> vezes o risco de se tornar até pan- fletário. Essa tendência não era
-> totalmente nova. Já a partir do *be-bop,* muitos músicos começaram a
-> aderir ao movimento dos *Black Muslims* (Muçulma- nos Negros), que
-> paradoxalmente tentavam aliar uma postura política revolucionária a
-> uma religião
+Nos seus piores momentos, a música de Jarrett e Braxton consegue ser
+tão pretensiosa e insossa como a dos eruditos norte-americanos
+contempo- râneos e tão cansativa e glacial como as propostas da
+vanguarda experimental. Mas há bons momen- tos – como o *Kon Concert*
+de Jarrett e os *Montreux*/ *Berlin Concerts* de Braxton, ou suas
+colaborações com o baterista Max Roach – em que eles trazem uma vida
+realmente nova para o *jazz,* num momen- to em que todos os caminhos
+pareciam já trilhados. No final da década de 60, nos anos do *Black
+Power,* o *jazz* foi usado como uma arma política, correndo muitas
+vezes o risco de se tornar até pan- fletário. Essa tendência não era
+totalmente nova. Já a partir do *be-bop,* muitos músicos começaram a
+aderir ao movimento dos *Black Muslims* (Muçulma- nos Negros), que
+paradoxalmente tentavam aliar uma postura política revolucionária a
+uma religião
 
 basicamente reacionária. Muitos adotaram nomes árabes, como Art Blakey
 (Abdullah Ibn Buhaina), Argonne Thornton (Sadik Hakim), Kenny Clarke
@@ -2285,23 +2223,23 @@ sintonia com a era dos compu- tadores – destronou definitivamente o
 trompete, cuja linguagem de notas destacadas se associava a ou- tra
 etapa tecnológica, aquela dos motores de explo- são e da era mecânica.
 
-> Esta irresistível ascensão do saxofone foi anali- sada num artigo de
-> 1979 do crítico Stanley Crouch, *Getting Hot: The Democratization of
-> the Saxophone.* A certa altura, ele escreve:
->
-> *“O saxofone atravessa um dos períodos mais ricos de sua história,
-> pois virtuosismo musical na América de hoje significa dominar toda uma
-> gama de possibilidades estilísticas.* O *saxofonista atual pode usar
-> vibrato numa passagem e abandoná-lo na seguinte, soprar notas bem
-> redondas ou manipular sua entonação em busca de um colorido que
-> ignore* a *afinação pianística em troca de uma maior variedade,
-> suspender os acordes em função de efei- tos modais, articular suas
-> frases por meio de recursos rítmicos inspirados por todo mundo, de
-> Sidney Bechet a Albert Ayler, usar livremente a harmonia ou a
-> desafinação intencional, apelar para a respiração circular a fim de
-> criar novos níveis de tensão e deliberadamente tocar* o *instru- mento
-> mais alto ou mais baixo do que era possível ou aceitável vinte anos
-> atrás.”*
+Esta irresistível ascensão do saxofone foi anali- sada num artigo de
+1979 do crítico Stanley Crouch, *Getting Hot: The Democratization of
+the Saxophone.* A certa altura, ele escreve:
+
+*“O saxofone atravessa um dos períodos mais ricos de sua história,
+pois virtuosismo musical na América de hoje significa dominar toda uma
+gama de possibilidades estilísticas.* O *saxofonista atual pode usar
+vibrato numa passagem e abandoná-lo na seguinte, soprar notas bem
+redondas ou manipular sua entonação em busca de um colorido que
+ignore* a *afinação pianística em troca de uma maior variedade,
+suspender os acordes em função de efei- tos modais, articular suas
+frases por meio de recursos rítmicos inspirados por todo mundo, de
+Sidney Bechet a Albert Ayler, usar livremente a harmonia ou a
+desafinação intencional, apelar para a respiração circular a fim de
+criar novos níveis de tensão e deliberadamente tocar* o *instru- mento
+mais alto ou mais baixo do que era possível ou aceitável vinte anos
+atrás.”*
 
 Esta polivalência do saxofone reflete hoje o pró- prio *jazz,* em escala
 maior. Uma das práticas consa-
@@ -2392,40 +2330,39 @@ uma colossal *jam session* reunindo músicos de to- dos os cantos da
 Terra no exercício da liberdade de criação que sempre foi o compromisso
 maior do *jazz.*
 
-INDICAÇÕES: PARA LER E OUVIR
-============================
+# Indicações: para ler e ouvir
 
-> A bibliografia do *jazz* em Iíngua portuguesa é escassa. No Brasil, um
-> dos trabalhos pioneiros – *Jazz Panorama,* de Jorge Guinle (Agir, 53)
-> – ainda pode ser encontrado em sua edição atualizada de 1959. O
-> recente *Jazz: Uma Introdução,* de Luiz Orlando Carneiro (Artenova,
-> 82), é uma coletânea de ensai- os que tratam principalmente de figuras
-> chave do *jazz* moderno. *Sincretismos na Música Afro-Ameri- cana,* de
-> Edoardo Vidossich (Quíron 75), é valioso como estudo das raízes mas só
-> admite o *jazz* tradi- cional, excluindo tudo mais como *“*
-> anti-*jazz”,* posi- ção um tanto anacrônica. Dos traduzidos, O *Jazz/
-> Do Rag ao Rock* de Joachim E. Berendt (Perspecti- va, 75) é um
-> completo e confiável vade-mécum· *Combo/Oito Estórias do Jazz,* de
-> Rudi Blesh (Cultrix,
+A bibliografia do *jazz* em Iíngua portuguesa é escassa. No Brasil, um
+dos trabalhos pioneiros – *Jazz Panorama,* de Jorge Guinle (Agir, 53)
+– ainda pode ser encontrado em sua edição atualizada de 1959. O
+recente *Jazz: Uma Introdução,* de Luiz Orlando Carneiro (Artenova,
+82), é uma coletânea de ensai- os que tratam principalmente de figuras
+chave do *jazz* moderno. *Sincretismos na Música Afro-Ameri- cana,* de
+Edoardo Vidossich (Quíron 75), é valioso como estudo das raízes mas só
+admite o *jazz* tradi- cional, excluindo tudo mais como *“*
+anti-*jazz”,* posi- ção um tanto anacrônica. Dos traduzidos, O *Jazz/
+Do Rag ao Rock* de Joachim E. Berendt (Perspecti- va, 75) é um
+completo e confiável vade-mécum· *Combo/Oito Estórias do Jazz,* de
+Rudi Blesh (Cultrix,
 
 79\) focaliza personagens do *jazz* como Armstrong e Bechet, Billie
 Holiday e Lester Young; o volumoso
 
-> (674 p.) *Do Salmo ao Jazz,* de Gilbert Chase (Glo- bo, 57), é uma
-> obra de base sobre a música norte- americana; O *Jazz e sua Influência
-> na Cultura Ame- ricana (Blues People* – *Negro Music in White
-> America)* de LeRoi Jones (Record, 67) é uma análi- se contundente do
-> choque cultural sofrido pelo ne- gro na América e da música resultante
-> desse pro- cesso; O i*nesquecível Glenn Miller e Sua Orques- tra,* de
-> George T. Simon (Fermata, 79), apesar do seu tom de boletim de
-> fã-clube, é bastante informa- tivo e reconstitui a Era do *Swing.* Um
-> livro básico sobre as relações entre *jazz* e política é *Free Jazz/
-> Black Power,* de Philippe Carles e Jean-Louis Comolli (A Regra do
-> Jogo, Porto, 76). Numa área mais es- pecializada, o autor deste O *Que
-> é Jazz* publicou, como encartes especiais na revista *Som Três,* uma
-> série de cinco monografias: O *Saxofone no Jazz* (dez. 81), O
-> *Trompete no Jazz* (out.82), *12Mestres do Jazz* (nov. 82), O *Piano
-> no Jazz* (dez. 82) e *A Estória do Blues* (jan. 83).
+(674 p.) *Do Salmo ao Jazz,* de Gilbert Chase (Glo- bo, 57), é uma
+obra de base sobre a música norte- americana; O *Jazz e sua Influência
+na Cultura Ame- ricana (Blues People* – *Negro Music in White
+America)* de LeRoi Jones (Record, 67) é uma análi- se contundente do
+choque cultural sofrido pelo ne- gro na América e da música resultante
+desse pro- cesso; O i*nesquecível Glenn Miller e Sua Orques- tra,* de
+George T. Simon (Fermata, 79), apesar do seu tom de boletim de
+fã-clube, é bastante informa- tivo e reconstitui a Era do *Swing.* Um
+livro básico sobre as relações entre *jazz* e política é *Free Jazz/
+Black Power,* de Philippe Carles e Jean-Louis Comolli (A Regra do
+Jogo, Porto, 76). Numa área mais es- pecializada, o autor deste O *Que
+é Jazz* publicou, como encartes especiais na revista *Som Três,* uma
+série de cinco monografias: O *Saxofone no Jazz* (dez. 81), O
+*Trompete no Jazz* (out.82), *12Mestres do Jazz* (nov. 82), O *Piano
+no Jazz* (dez. 82) e *A Estória do Blues* (jan. 83).
 
 Já em Iíngua inglesa a bibliografia do *jazz* cres- ceu de maneira
 impressionante nos últimos anos. As *Enciclopédias* de Leonard Feather
@@ -2500,29 +2437,29 @@ para entender a universalidade do *jazz,* ouça os discos de Vítor Assis
 Brasil e Hélio Delmiro. E ouça Egberto Gismonti e Hermeto Pascoal – de
 preferência ao vivo, que eles estão aí mesmo para isso.
 
-> **Sobre o Autor**
->
-> Há 59 anos me divido entre a música e a palavra. Jornalis- ta
-> profissional desde 1954, em 55 comecei a debater-me com um sax-tenor
-> tinhoso fabricado em São Paulo. Recebi meu primeiro e único cachê em
-> 57 tocando no Baile Anual do Sindicato dos Garções de Curitiba. Em 60
-> larguei a música e vivi dois anos em Paris (estudando jornalismo) e
-> três anos em Londres (trabalhando na BBC). De volta ap Brasil, publi-
-> quei os livros *Mao e a China* (68), *Rock/O Grito e o Mito* (73),
-> *Blues/Da Lama à Fama* (95), entre outros. Fui editor de *Veja,*
-> diretor de *Fatos e Fotos* e diretor de *Manchete.* Atual- mente, sou
-> editor de projetos jornalísticos da Bloch. Colunista de *jazz* e
-> *rock* em *Manchete, Ele Ela* e *Som Três.* Em 1979 voltei a incomodar
-> os vizinhos com o meu saxofone, um te- nor Selmer Mark VII, boquilha
-> Otto Lin’k 6\*, palheta 2½. Considero a música a mais absurda das
-> artes – por isso mes- mo a mais fascinante – e o *jazz* um desafio à
-> imaginação criadora levado às últimas conseqüências.
->
-> **Caro leitor:**
->
-> As opiniões expressas neste livro são as do autor, podem não ser
-> assuas. Caso você a che que vale a pena escrever um outro livro sobre
-> o mesmo tem a, nós estamos dispostos a estudar sua public a ç ão com o
-> mesmo título como “segunda visão ”.
+# Sobre o autor
+
+Há 59 anos me divido entre a música e a palavra. Jornalis- ta
+profissional desde 1954, em 55 comecei a debater-me com um sax-tenor
+tinhoso fabricado em São Paulo. Recebi meu primeiro e único cachê em
+57 tocando no Baile Anual do Sindicato dos Garções de Curitiba. Em 60
+larguei a música e vivi dois anos em Paris (estudando jornalismo) e
+três anos em Londres (trabalhando na BBC). De volta ap Brasil, publi-
+quei os livros *Mao e a China* (68), *Rock/O Grito e o Mito* (73),
+*Blues/Da Lama à Fama* (95), entre outros. Fui editor de *Veja,*
+diretor de *Fatos e Fotos* e diretor de *Manchete.* Atual- mente, sou
+editor de projetos jornalísticos da Bloch. Colunista de *jazz* e
+*rock* em *Manchete, Ele Ela* e *Som Três.* Em 1979 voltei a incomodar
+os vizinhos com o meu saxofone, um te- nor Selmer Mark VII, boquilha
+Otto Lin’k 6\*, palheta 2½. Considero a música a mais absurda das
+artes – por isso mes- mo a mais fascinante – e o *jazz* um desafio à
+imaginação criadora levado às últimas conseqüências.
+
+# Caro leitor
+
+As opiniões expressas neste livro são as do autor, podem não ser
+assuas. Caso você a che que vale a pena escrever um outro livro sobre
+o mesmo tem a, nós estamos dispostos a estudar sua public a ç ão com o
+mesmo título como “segunda visão ”.
 
 ![](media/image12.png)
