@@ -99,7 +99,7 @@ casos melodias totalmente novas em cima de sequências harmônicas
 conhecidas. Já se comparou, no *jazz,* a sequência harmônica de um
 tema ao seu esqueleto; a melodia seria a pele; e as variações a roupa.
 A harmonia que os negros assimilaram na sua nova terra vinha das
-danças de origem européia, como a polca, a valsa, a quadrilha; e também do tango, da *habanera* etc. Vinha ainda da música popular americana
+danças de origem europeia, como a polca, a valsa, a quadrilha; e também do tango, da *habanera* etc. Vinha ainda da música popular americana
 – o *cakewalk* dos *minstrel shows* –, das marchas militares, da música
 clássica ligeira, posteriormente das operetas; e dos hinos evangélicos,
 é bom não esquecer. Todas estas influências se baseavam num sistema
@@ -180,7 +180,7 @@ ou o recolhimento de uma rede cheia de peixes. Há canções de elogio e de esc�
 cantadas por profissionais contratados. Na verdade, na África música e
 linguagem nunca foram divididas rigidamente, como no Ocidente. Cada
 palavra pode ter um significado, dependendo da sua entonação. Na
-língua ioruba, o*ko* pode designar “marido”, “foice” ou “canoa”, dependendo de como seja pronunciada. Como o nosso “ôi”: enunciado brevemente,
+língua iorubá, o*ko* pode designar “marido”, “foice” ou “canoa”, dependendo de como seja pronunciada. Como o nosso “ôi”: enunciado brevemente,
 é uma saudação amistosa; com uma entonação longa e grave (ôôôôôôi)
 adquire um tom de advertência. Esse caráter fortemente vocal da música
 africana passou para o *jazz,* quando os negros entraram em contato com
@@ -239,7 +239,7 @@ peruca castanha empoada e maneiras tão finas quanto seus trajes.
 
 Mas estes negros de salão eram exceção. A grande maioria vivia e
 morria no trabalho da plantação ou em tarefas ligadas a ele e, depois,
-iria ser a mãode-obra escrava para a indústria nascente, nas serrarias, nos engenhos e na construçlo de ferrovias. Como na África, a
+iria ser a mão-de-obra escrava para a indústria nascente, nas serrarias, nos engenhos e na construção de ferrovias. Como na África, a
 música ritmava os trabalhos, cadenciando as batidas de martelos,
 marretas ou machados, o levantamento de cargas etc. Em certos
 casos, a *work-song* descrevia a tarefa específica, como esta usada para
@@ -289,12 +289,12 @@ especialistas chamam de “responsorial” ou “antifonal” – também é
 encontrado na música religiosa afro-americana. Entre suas diversas
 manifestações, figuram as *gospel songs* (Gospel = Evangelho), espécie de fusão dos hinos protestantes com as
 *work-songs* em que o pregador sola e a congregação responde. Os negros
-transformaram estes hinos de origem européia em verdadeiros cânticos
+transformaram estes hinos de origem europeia em verdadeiros cânticos
 sincopados, ao ritmo vivo de palmas e batidas de pés. Já os
 *spirituals,* entoados mais lenta e solenemente, são solos inspirados de
 trechos da Bíblia adequados à condição do negro, que se identificava
 com o povo oprimido de Israel em sua luta pela libertação. A adaptação
-era livre e criativa e nela entravam elementos da própria realidade negra, como a de um trem a caminho do Céu *(Get on board, little children*
+era livre e criativa e nela entravam elementos da própria realidade negra, como a de um trem a caminho do Céu (*Get on board, little children*
 = “Vamos embarcar, crianças”). 
 
 Numa área mais profana, entre os gêneros
@@ -309,7 +309,7 @@ Destes *shows* surgiu o *cakewalk,* inicialmente uma sátira à maneira
 afetada de andar dos brancos, que acabou se transformando numa dança de
 sucesso. Até Debussy comporia um *Golliwog’s Cakewalk,* tempos depois,
 quando os compositores europeus começavam a descobrir a música negra
-norteamericana.
+norte-americana.
 
 Nascido nos *minstrel shows,* o *cakewalk* acabaria difundido pelo que
 foi um dos primeiros *booms* musicais (à semelhança do *swing* e do
@@ -401,11 +401,11 @@ O que seria mais ou menos isso:
 
 A principal característica da melodia do *blues* é a *blue note* – a
 bemolização (diminuição de meio-tom) da terceira e da sétima notas
-(querem alguns também da quinta) da escala européia. Por mais que
+(querem alguns também da quinta) da escala europeia. Por mais que
 estudassem este fenômeno e buscassem explicálo, os etnomusicólogos
 ainda não chegaram a uma conclusão. No fundo, ele reflete uma
 resistência cultural do negro de aderir estritamente à tonalidade
-européia e é justamente essa rebeldia que dá ao *blues* toda a sua
+europeia e é justamente essa rebeldia que dá ao *blues* toda a sua
 beleza e originalidade. Das margens lamacentas do Mississipi, as
 *blues notes,* em menos de cem anos, se infiltraram pela música do mundo
 inteiro. (Até a erudita: já em 1923 Darius
@@ -460,7 +460,7 @@ ainda aquelas vozes de um passado distante, de uma terra distante: a
 Das muitas lendas em torno do *jazz,* uma é verdade: ele nasceu mesmo
 em Nova Orleans. Muitos fatores contribuíram para que esta cidade
 tivesse uma importância cultural única, diferente de tudo mais que
-pertencia ao espírito norteamericano. Fundada em 1718 por
+pertencia ao espírito norte-americano. Fundada em 1718 por
 Jean-Baptiste le Moyne, Sieur de Bienville, foi francesa até 1762,
 espanhola até 1800 e americana a partir de 1803, quando Napoleão vendeu
 toda a Louisiana aos Estados Unidos. Situada a alguns quilômetros do
@@ -519,7 +519,7 @@ com algum sangue negro nas veias – passavam a ser considerados negros.
 Assim, na segunda metade do século 19, houve uma grande pressão social
 para nivelar crioulos e negros. Mas as diferenças ainda eram muito
 marcadas entre as duas classes, principalmente no aspecto cultural.
-Musicalmente, os crioulos estavam voltados para a tradição européia:
+Musicalmente, os crioulos estavam voltados para a tradição europeia:
 seus filhos aprendiam os instrumentos clássicos, tocavam por partitura
 e seu repertório incluía árias de óperas, peças eruditas, cançonetas
 populares de salão e algumas marchas militares – enfim, o mesmo
@@ -560,7 +560,7 @@ ruas e pelo *blues* instrumental, em que tentava imitar a voz humana
 com suas cornetas e seus trombones. Assim, num outro nível, pode-se
 dizer que o *jazz* nasceu Quando se fundiram estas duas grandes
 correntes: de um lado, a música educada dos crioulos, com todo o seu
-rigor técnico e um repertório voltado para a tradição européia e a
+rigor técnico e um repertório voltado para a tradição europeia e a
 música dos brancos; do outro lado, o som primitivo dos negros, fazendo
 música improvisada porque não sabiam ler partitura. Em resumo: a teoria
 unindo-se à prática, a inteligência à intuição.
@@ -628,8 +628,7 @@ aproximando pelo canal e o Rei dos Zulus desembarcando no cais de
 Basin Street. O Rei dos Zulus era o negro mais importante da cidade;
 cada ano era eleito um, na verdade isto ainda ocorre. E a cena de
 abertura mostraria esta grande festividade de coroação na Praça do
-Congo, onde são reconstituídos quadros e rituais dos dias da es-
-cravidão, com todo o seu simbolismo sexual e religioso e suas danças.
+Congo, onde são reconstituídos quadros e rituais dos dias da escravidão, com todo o seu simbolismo sexual e religioso e suas danças.
 E, naquele ano justamente, Buddy Solden ia ser o Rei dos Zulus.*
 
 Fato e lenda estão de tal maneira entrelaçados na história de B uddy
@@ -654,7 +653,7 @@ que definia como *“calling my children home”* – “chamando as crianças
 para casa.” Num esforço de arqueologia sonora, Marquis tenta
 reconstituir a música de Bolden:
 
->*Alguns ridicularizavam Jelly Roll por dizer que era possível ouvir
+>Alguns ridicularizavam Jelly Roll por dizer que era possível ouvir
 Buddy a uma grande distância; outros, disseram que o ouviam
 perfeitamente em Nova Orleans, quando ele tocava do outro lado do
 rio, em Gratna. Muitas pessoas ofereceram explicações para o
@@ -673,7 +672,7 @@ barulhenta.’ Danny Barker deu outra explicação, dizendo que Nova
 Orleans fica abaixo do nível do mar, numa planície esponjosa, e atua
 como uma câmara de eco. A música reverbera, em vez de ser absorvida; e
 o som viaja a longas distâncias no ar úmido, sobre o terreno
-impregnado de água.*
+impregnado de água.
 
 Infelizmente, do sopro mitológico de Buddy Bolden não restou nenhum
 registro físico. Houve rumores de que existiria um cilindro, gravado
@@ -703,11 +702,11 @@ e obscuros anos, quando não podia mais tocar por causa de problemas
 dentários: “Eu fui o sujeito que pegou uma garrafa de refrigerante e
 um desentupidor de pia e fez a primeira surdina usada numa corneta; mas
 não sabia como tirar a patente e então veio um cara instruído e fez
-uma fortuna com as minhas idéias.”
+uma fortuna com as minhas ideias.”
 
 Com o tempo, os trompetes dourados de Nova Orleans foram reinar em
 outras terras. O fechamento de Storyville em 1917 por ordem da marinha
-norteamericana foi mais um símbolo do fim de uma época do que uma
+norte-americana foi mais um símbolo do fim de uma época do que uma
 causa real do êxodo dos músicos. AAmérica sentia os efeitos da
 Primeira Guerra Mundial e as populações negras do Sul migravam para as
 cidades industriais do Norte, em busca de emprego nas fábricas de
@@ -718,7 +717,7 @@ gostado. E, uma vez fixados num emprego, mandavam chamar outros músicos
 de Nova Orleans. 
 
 Em 26 de janeiro de 1917, um grupo de músicos brancos
-de Nova Orleans, a Original Dixieland Jazz Band, fazia sua estréia no
+de Nova Orleans, a Original Dixieland Jazz Band, fazia sua estreia no
 Reisenweber’s Café de Nova lorque. Em poucas semanas, a nova música
 tomava a cidade de assalto e começava a se tornar conhecida no resto do
 mundo. Exatamente um mês
@@ -728,7 +727,7 @@ a música de Nova Orleans ganhava fama internacional no justo momento em
 que, na cidade em que nascera, começava o seu declínio; e, criação dos
 negros, de corpo e alma, ela se tornava famosa através de um grupo
 branco. Os *jazzmen* negros só seriam gravados a partir de 1923. Mas o
-tempo Ihes faria justiça e Nova Orleans ficaria para sempre como uma
+tempo lhes faria justiça e Nova Orleans ficaria para sempre como uma
 cidade de sonho – o fabuloso berço do *jazz* nos anos 1900.
 
 IMAGEM2
@@ -771,11 +770,11 @@ O primeiro fonógrafo – ou gramofone – foi construído por Thomas Edison
 em 1877. Mas suas versões primitivas eram muito caras e geralmente
 vendidas para bares e confeitarias. Na virada do século
 começou a se gravar mais, principalmente marchas, *rags,* árias de ópera
-e peças sinfônicas. Gravavase então em cilindros, num processo
+e peças sinfônicas. Gravava-se então em cilindros, num processo
 tecnicamente complexo. O primeiro grande aperfeiçoamento veio com o
 disco de cera, mas a gravação era ainda mecânica. Relatos sobre as
 primeiras gravações de um grupo de *jazz* negro – o de King Oliver em
-Chicago, em 1923 – dão uma idéia de como era primitivo o processo. Os
+Chicago, em 1923 – dão uma ideia de como era primitivo o processo. Os
 sons, captados acusticamente por um grande fone, eram registrados num
 disco de cera por um mecanismo semelhante ao braço de um antigo
 gramofone, provido de uma agulha de aço. O baterista, Baby Dodds, não
@@ -787,7 +786,7 @@ problema: às vezes soava tão forte que o músico tinha de ser afastado o
 máximo possível do fone de captação. Só a partir de 1925 as coisas
 iriam melhorar, com o aperfeiçoamento da gravação elétrica, usando
 microfone, amplificador e gravador de eletroímã, e lançando pela
-primeira vez a idéia de fidelidade na reprodução de sons.
+primeira vez a ideia de fidelidade na reprodução de sons.
 
 Ao deixar Nova Orleans em 1918, King Oliver se instalara em Chicago,
 onde passou a fazer sucesso com a sua Creole Jazz Band. Em 1922,
@@ -894,7 +893,7 @@ criações foram feitas no espaço exíguo de três minutos, a duração máxima
 caminho que o *jazz* encontrou para libertar suas estruturas e seus
 grupos da tirania e da subjetividade do momento.”
 
-Para se ter uma idéia do crescimento do mercado fonográfico na época
+Para se ter uma ideia do crescimento do mercado fonográfico na época
 do *boom* das danças, em 1914 foram vendidos cerca de 27 milhões de discos; em 1921, a cifra se elevava para 100 milhões. Em tudo isso,
 descobria-se que havia um potencial fabuloso para os *race records*
 (discos para negros). Ou seja, o *blues* destinado ao consumo da
@@ -907,7 +906,7 @@ pouco tempo, negras nascidas na maior pobreza se tornavam ricas
 estrelas, talvez a primeira versão do ídolo *pop* deste século. Eram as
 chamadas Rainhas (ou Imperatrizes) do *Blues* — e viviam como tal. Ma
 Rainey, por exemplo, celebrizou-se por sua teatralidade, usando roupas
-sofisticadas e exóticas e cobrindo-se dos pés à cabeça de ricas jóias
+sofisticadas e exóticas e cobrindo-se dos pés à cabeça de ricas joias
 (não é metáfora: até em seus dentes Ma Rainey mandou incrustar ouro e
 diamantes). Bessie Smith, que saiu do anonimato em 1923 ao vender em
 menos de seis meses 800 milhões de cópias de *Downhearted Blues,* foi
@@ -915,7 +914,7 @@ uma espécie de Catarina a Grande do *jazz,* por seus apetites sexuais e
 seu despotismo. Em dez anos, de 1923 a 33, Bessie gravou 180 canções
 para a Colúmbia e vendeu cerca de 10 milhões de discos. Fala-se até que
 certa vez ela salvou sua gravadora da falência. Bessie vestia-se como
-uma estrela de Hollywood, coberta de peles e jóias e viajava num vagão
+uma estrela de Hollywood, coberta de peles e joias e viajava num vagão
 de trem particular para evitar os aborrecimentos que costumavam
 ocorrer com os artistas negros quando excursionavam pelo Sul.
 
@@ -929,8 +928,7 @@ os vocais das grandes cantoras de *blues,* que escolhiam os melhores
 músicos para suas bandas.
 
 Com a Depressão, que atingiu principalmente as populações negras dos
-Estados Unidos, afetando o seu poder aquisitivo, o mercado dos *race
-records* entrou em declínio e a época de ouro do *blues* clássico
+Estados Unidos, afetando o seu poder aquisitivo, o mercado dos *race records* entrou em declínio e a época de ouro do *blues* clássico
 chegou ao fim. Mas deixou sua marca para sempre no *jazz.*
 
 Outra aventura na Chicago dos *gangsters* e da Lei Seca (1919-1933) foi
@@ -949,7 +947,7 @@ conhecidos como Austin
 High School Gang, dá a sua versão de como se exerceu este fascínio da
 música negra:
 
->*Para mim e para os outros caras da Austin atacados pelo vírus da
+>Para mim e para os outros caras da Austin atacados pelo vírus da
 música, o* jazz *proporcionava a emoção que, não fosse ele, teríamos
 ido procurar entre as atividades ilegais que floresciam então na nossa
 vizinhança. Todo dia depois das aulas íamos a um lugarzinho chamado
@@ -963,7 +961,7 @@ Farewell Blues*. Rapaz, quando ouvimos aquilo – ficamos malucos.
 Todo mundo pirou. Era maravilhoso. Ficávamos na sorveteria das três
 até as oito da noite, ouvindo aqueles discos, um depois do outro. Foi
 então que resolvemos, ali mesmo, formar uma orquestra e tocar como
-aqueles sujeitos.*
+aqueles sujeitos.
 
 O músico-símbolo do estilo de Chicago nasceu em uma família da alta
 classe média, descendente de alemães, a mais de mil quilômetros de Nova
@@ -1026,7 +1024,7 @@ linear e mostrou o quanto ele podia ser lírico” E James Lincoln Collier:
 caminho. E provou que era possível tocar dentro de um espaço físico e
 emocional mais estrito, prestando rigorosa atenção ao detalhe – a
 caligrafia em vez das grandes pinceladas; o soneto, em lugar da
-epopéia.”
+epopeia.”
 
 Com a crise de 1929, terminava não só um período rico e vibrante da
 vida americana, mas também a década que tinha dado o melhor da música de
@@ -1040,7 +1038,7 @@ também o efeito de várias transformações. Os discos faziam da nova
 música um fenômeno de massa; o cinema ganhava som e voz a partir de 1927
 com um filme que – não totalmente por acaso – se chamava *O Cantor de
 Jazz.* Com a difusão maciça das gravações, o *jazz* começava a brotar
-por toda parte nos Estados Unidos. E outros pólos surgiam –
+por toda parte nos Estados Unidos. E outros polos surgiam –
 particularmente Nova Iorque e Kansas City – à medida que Chicago ia se
 esvaziando. A mania da dança também exerceu sua influência sobre os
 grupos de *jazz,* que foram se ampliando, com a criação dos naipes
@@ -1129,7 +1127,7 @@ de Washington. Deu certo: aos 20 anos, Ellington já ganhava 150 dólares
 por semana tocando em festas e bailes. Mas Washington ficou pequena
 demais e ele acabou se mudando para Nova lorque. Ellington e sua
 orquestra tocaram primeiro na Broadway, no Kentucky Club, e depois no
-famoso Cotton Club do Harlem. Sua estréia no Cotton Club, em 4 de dezembro de 1927, foi um acontecimento que marcou época. Na ocasião, entre
+famoso Cotton Club do Harlem. Sua estreia no Cotton Club, em 4 de dezembro de 1927, foi um acontecimento que marcou época. Na ocasião, entre
 as celebridades artísticas e os jovens ricos – “belos e malditos”, na
 expressão de Scott Fitzgerald – tornou-se moda incursionar pela vida
 noturna do Harlem. “A noite de domingo no Cotton Club”, lembra
@@ -1149,8 +1147,7 @@ décadas (Carney durante 47 anos, Hodges durante 42, Cootie Williams
 intermitentemente de 1929 a 70). Com uma das maiores obras gravadas –
 mais de 3000 composições – Ellington extrapola os limites do *jazz* para
 penetrar no terreno da música erudita e da canção popular americana,
-onde com clássicos como *Sophisticated Lady, I Got It Bad and That Ain’t
-Good* e *Prelude to a Kiss* – se coloca à altura de gigantes como
+onde com clássicos como *Sophisticated Lady, I Got It Bad and That Ain’t Good* e *Prelude to a Kiss* – se coloca à altura de gigantes como
 Gershwin, Cole Porter, Irving Berlin, Rodgers & Hart. Mas foi no *jazz*
 orquestral que ele exerceu com maior intensidade a sua magia, levando
 o maestro André Previn a comentar: “Stan Kenton pode parar diante de mil
@@ -1190,7 +1187,7 @@ colocar-se em teste contra *jazzmen* do resto do país. Embora o clima
 de competição e rivalidade das *jam sessions* fosse estimulado, a
 necessidade de se afirmar e derrubar o adversário era menos importante
 que o prazer em si de tocar. Com estes desafios musicais, (os solistas
-das *big bands* conquistavam o espaço para a improvisação que Ihes era
+das *big bands* conquistavam o espaço para a improvisação que lhes era
 negado pelas orquestras em suas apresentações rotineiras, quando o que
 contava era o som global, feito para dançar. Com o tempo, as *big bands*
 acabariam incorporando um pouco do espírito das *jam sessions* em seus
@@ -1208,21 +1205,21 @@ Mary Lou Williams relatou o que foi talvez o “duelo do século”, opondo
 dois dos maiores tenoristas do *jazz,* de escolas totalmente opostas,
 Coleman Hawkins e Lester Young:
 
->*Hawk não sabia qua os tenores de Kansas City eram tão temíveis.
+>Hawk não sabia que os tenores de Kansas City eram tão temíveis.
 Quando chegamos* \[Mary Lou foi acordada no meio da noite para
 substituir um pianista extenuado\] *ele estava lá, de camiseta,
 duelando. Parecia ter topado com um obstáculo inesperado. O estilo de
 Lester era leve e ele precisava de uns cinco choruses para esquentar.
 Mas então soprava para valer e ninguém conseguia segurá-lo numa
-batalha de saxofone. Foi assim qua Hawkins perdeu a invencibilidade.
+batalha de saxofone. Foi assim que Hawkins perdeu a invencibilidade.
 Sua banda ia tocar em St. Louis naquela noite e Hawk sabia que era
 hora de pegar a estrada. Mas continuava soprando, tentando encontrar
-idéias para derrubar Ben* \[Webster\] *Hershel* \[Evans\] *e Lester.
-Quando finalmante desistiu, sentou-se direto ao volante e partiu para
+ideias para derrubar Ben* \[Webster\] *Hershel* \[Evans\] *e Lester.
+Quando finalmente desistiu, sentou-se direto ao volante e partiu para
 St. Louis. Ele acabara de comprar um Cadillac novinho em folha e
 fundiu a máquina tentando chegar a tempo em St. Louis. Sim, Hawkins
 foi rei até o dia em que se defrontou com aqueles incríveis tenoristas
-de Kansas City.*
+de Kansas City.
 
 Lester Young (1909-1959) foi um dos primeiros modernistas do *jazz.*
 Nasceu no interior do Mississipi e viveu os dez primeiros anos em Nova
@@ -1242,7 +1239,7 @@ pureza quase clássica do seu som aliava-se a fluidez do fraseado e um
 senso rítmico mais flexível, rompendo com a batida mecânica do Swing.
 Além disso, seu sopro dava uma sensação tão incrível de relaxamento
 muscular que, segundo um crítico, ele parecia tocar deitado. Outro
-crítico, um francês — inspirado talvez em Saudelaire – comparou o som
+crítico, um francês — inspirado talvez em Baudelaire – comparou o som
 de Lester a *“une siréne sonnant dans le brouillard”,* algo como uma
 sirene, ou sereia, soando em meio à neblina. Lester foi apelidado de
 *Prez* (= Presidente), na hierarquia jazzística que, até então,
@@ -1346,25 +1343,25 @@ músicos tinha antes que atender a seus compromissos tocando em grandes
 orquestras ou em cabarés. Dizzy Gillespie, o trompetista que seria um
 dos principais artífices do novo som, lembra:
 
->*Nenhum homem ou grupo de homens iniciou* o jazz *moderno, mas uma*
-*das maneiras como ele aconteceu foi esta: alguns de nós passamos a*
-*“jamear” no Minton’s no começo dos anos 40. O problema é que*
-*apareciam sempre por lá uns caras que não sabiam tocar e gastavam um*
-*tempo enorme para provar isso no palco. Assim, nas tardes antes de uma* 
-jam session, *Thelonious Monk e eu começamos a bolar algumas*
-*variações de acordes mais complicadas e outros macetes e usávamos*
-*isto à noite para afugentar os caras sem talento. Com o tempo, fomos*
-*ficando cada vez mais interessados musicalmente naquilo que fazíamos*
-*e, quando exploramos mais fundo a coisa, nossa música evoluiu.*
+>Nenhum homem ou grupo de homens iniciou *o jazz* moderno, mas uma
+das maneiras como ele aconteceu foi esta: alguns de nós passamos a
+“jamear” no Minton’s no começo dos anos 40. O problema é que
+apareciam sempre por lá uns caras que não sabiam tocar e gastavam um
+tempo enorme para provar isso no palco. Assim, nas tardes antes de uma
+*jam session,* Thelonious Monk e eu começamos a bolar algumas
+variações de acordes mais complicadas e outros macetes e usávamos
+isto à noite para afugentar os caras sem talento. Com o tempo, fomos
+ficando cada vez mais interessados musicalmente naquilo que fazíamos
+e, quando exploramos mais fundo a coisa, nossa música evoluiu.
 
 Thelonious Monk dá também a sua versão:
 
->*Eu não tinha nenhuma idéia de que algo de novo estivesse sendo*
-criado. É verdade que o* jazz *moderno começou a se popularizar no*
-*Minton’s, mas algumas destas estórias e artigos comprimem em um ano o*
-*que aconteceu em dez. Amontoam todo mundo na mesma época e no mesmo*
-*lugar. Eu vi praticamente todos os músicos de* jazz *no Minton’s , mas*
-*estavam simplesmente tocando. Não estavam fazendo nenhuma palestra.*
+>Eu não tinha nenhuma ideia de que algo de novo estivesse sendo
+criado. É verdade que o *jazz* moderno começou a se popularizar no
+Minton’s, mas algumas destas estórias e artigos comprimem em um ano o
+que aconteceu em dez. Amontoam todo mundo na mesma época e no mesmo
+lugar. Eu vi praticamente todos os músicos de *jazz* no Minton’s , mas
+estavam simplesmente tocando. Não estavam fazendo nenhuma palestra.
 
 A própria banda “da casa”, no Minton’s, era um agrupamento heterogêneo,
 como se pode ouvir nas raras gravações feitas com o equipamento precário
@@ -1477,10 +1474,10 @@ equilíbrio e, num lance mais ousado, atravessou ritmo. O baterista (Jo
 Jones, da orquestra de Count Basie) não vacilou: pegou um daqueles
 enormes pratos turcos da bateria e o arremessou sobre o novato. O prato
 foi cair com estrondo aos
-pés de Parker e a platéia caiu na gargalhada. Derrotado e humilhado, o
+pés de Parker e a plateia caiu na gargalhada. Derrotado e humilhado, o
 jovem saxofonista foi para uma cabana nas montanhas e entregou-se ao que
 os músicos chamam de *woodshedding:* um período de treinamento
-intensivo. *(Wood· shed* = “depósito de lenha”, “refúgio”; curiosamente,
+intensivo. (*Wood shed* = “depósito de lenha”, “refúgio”; curiosamente,
 os *jazzmen* chamam o saxofone de *axe* = “machado”).
 
 Autodidata, Parker procurava aprender ouvindo e imitando discos –
@@ -1498,7 +1495,7 @@ lorque e do resto do país. Sua ida para Nova lorque
 40 Parker lá estava definitivamente instalado.
 
 Com uma técnica impressionante, aliando a velocidade a um fluxo
-ininterrupto de idéias, Charlie Parker praticamente estraçalha
+ininterrupto de ideias, Charlie Parker praticamente estraçalha
 *standards,* reescrevendo-os por completo e elaborando linhas melódicas inteiramente novas sobre suas sequências harmônicas. Uma de suas
 principais “cobaias” era *Cherokee;* composição do *band-leader* inglês
 Ray Noble. Embora fosse apenas uma canção popular exaltando o índio
@@ -1506,16 +1503,16 @@ americano, *Cherokee* era um tema intrincado e longo, de 64 compassos,
 com várias modulações e complexas sequências de acordes, particularmente
 na segunda parte *(bridge).* O próprio Parker conta:
 
->*Lembro de uma noite em que eu estava ‘’jameando’’ numa espelunca*
-*da Sétima Avenida, entre as ruas 139 e 140. Era dezembro de 1939. Eu achava um* 
-*saco aqueles acordes*
-*estereotipados que a gente usava o tempo todo. E sentia que devia*
-*existir uma outra coisa, diferente. As vezes podia ouvi-la, mas era*
-*incapaz de tocá-la. Pois bem: naquela noite, improvisando sobre*
-*Cherokee, descobri que usando os intervalos mais altos de um acorde*
-*como linha melódica e escorando-os com acordes adequados, eu podia*
-*tocar aquilo que vinha ouvindo há muito tempo. Foi como se tivesse*
-*nascido de novo.*
+>Lembro de uma noite em que eu estava ‘’jameando’’ numa espelunca
+da Sétima Avenida, entre as ruas 139 e 140. Era dezembro de 1939. Eu achava um 
+saco aqueles acordes
+estereotipados que a gente usava o tempo todo. E sentia que devia
+existir uma outra coisa, diferente. As vezes podia ouvi-la, mas era
+incapaz de tocá-la. Pois bem: naquela noite, improvisando sobre
+Cherokee, descobri que usando os intervalos mais altos de um acorde
+como linha melódica e escorando-os com acordes adequados, eu podia
+tocar aquilo que vinha ouvindo há muito tempo. Foi como se tivesse
+nascido de novo.
 
 Em fins de 1941 ou começo de 1942, Parker gravou, na orquestra de Jay
 McShann, um pequeno solo em *Cherokee* que já antecipava a revolução do
@@ -1543,7 +1540,7 @@ jovens *jazzmen* não estavam cansados apenas das velhas fórmulas do
 *Swing,* mas da própria imagem do negro na sociedade americana. Louis
 Armstrong, com seu sorriso eufórico e os olhos esbugalhados cantando
 canções banais para divertir os brancos era o próprio símbolo do negro
-conformado, do Pai Tomás *(Uncle Tom).* Até a aparente docilidade e a
+conformado, do Pai Tomás (*Uncle Tom*). Até a aparente docilidade e a
 elegância convencional de um
 Duke Ellington os incomodavam. A tudo isso eles contrapunham atitudes
 rebeldes e roupas insólitas que refletiam o mesmo anticonformismo das
@@ -1552,11 +1549,11 @@ do novo visual, com suas boinas decoradas com claves de solou notas
 musicais, suas gravatas berrantes e seus óculos malucos. (Usar óculos
 escuros à noite tornou-se um *must* entre os *boppers.)* Também a
 gíria do *bop* – a exemplo do seu código secreto musical – era feita
-para afugentar os nãoiniciados e acabou passando para as outras camadas do *underground.* Lenny Bruce, mestre da fala satírica,
+para afugentar os não iniciados e acabou passando para as outras camadas do *underground.* Lenny Bruce, mestre da fala satírica,
 considerava-se um jazzista improvisando suas longas e corrosivas
 críticas ao Sistema, tratando cada sílaba como um *bopper* tratava uma
 nota musical. Jack Kerouac, o papa da geração *beat,* lançou um livro
-chamado *Mexico City Blues* (242 *Choruses)* e dizia no prefácio: “Quero
+chamado *Mexico City Blues* (242 *Choruses*) e dizia no prefácio: “Quero
 ser considerado um *jazz-poeta,* improvisando um longo *blues* em uma
 *jam session* numa tarde de domingo.” (Frequentador do cenário do
 *bop, Kerouac* se tornaria até título de uma composição de Dizzy
@@ -1570,7 +1567,7 @@ negro, e o *hipster* se tornou um fato na vida americana.” O *hipster* –
 o cara avançado, por dentro das coisas –, nascido nos anos do pós-guerra, da
 bomba A e da Guerra Fria, seria um *soul brother,* um irmão espiritual
 do *jazzman* negro e um precursor dos *hippies* dos anos 60 (a palavra
-*hippie* veio de *hipster).*
+*hippie* veio de *hipster*).
 
 O novo herói americano nada mais tinha daqueles personagens de
 Hemingway que saíam pelo mundo em busca de guerras justas e de touradas,
@@ -1769,11 +1766,11 @@ qual apenas ele tem as chaves e as tentativas de cópia caem sempre no
 ridículo e na caricatura. Ao contrário de Miles, que fez do *jazz* uma
 sucessão horizontal de “modas”, Monk efetuou um corte vertical na
 história do *jazz,* com um estilo virtualmente intemporal. Temas tão
-estranhos como seus títulos *(Misterioso, Epistrophy, Introspection)*
-ou de complexa geometria formal *(Criss Cross, Gallop’s Gallop, Rhythmaning)* coexistem pacificamente com suas belas baladas
-*(Round About Midnight, Ruby My Dear, Crepuscule With Nellie)* e com
+estranhos como seus títulos (*Misterioso, Epistrophy, Introspection*)
+ou de complexa geometria formal (*Criss Cross, Gallop’s Gallop, Rhythmaning*) coexistem pacificamente com suas belas baladas
+(*Round About Midnight, Ruby My Dear, Crepuscule With Nellie*) e com
 os *poucos standards* que explorava em piano solo com um lirismo
-obsessivo *(Smoke Gets in Your Eyes, Just a Gigolo, These Foolish Things).*
+obsessivo (*Smoke Gets in Your Eyes, Just a Gigolo, These Foolish Things*).
 
 Nascido na Carolina do Norte, Monk mudou-se ainda criança para Nova
 lorque, onde morou a maior parte de sua vida num pequeno apartamento
@@ -1894,8 +1891,7 @@ O nome da nova música – *free jazz* – aparecia no título de um álbum de
 Gabrieli, postados nas duas extremidades da nave da catedral de San
 Marco, em Veneza. Só que, em sintonia com os novos tempos, o quarteto de
 Coleman ocupava o canal esquerdo e o de Eric Dolphy o canal direito do
-som estereofônico. Como a pintura expressionista-abstrata *(White
-Light)* de Jackson Pollock que ilustrava a capa do álbum, esta música,
+som estereofônico. Como a pintura expressionista-abstrata (*White Light*) de Jackson Pollock que ilustrava a capa do álbum, esta música,
 que se pretendia livre, buscava formas produzidas ao acaso, evitando
 associações melódicas ou harmônicas mais óbvias. O solista e os
 instrumentistas que o “acompanhavam” deviam evitar toda e qualquer
@@ -1926,8 +1922,8 @@ alguns conseguiram até o milagre de conservar o público do *jazz* e
 conquistar ao mesmo tempo o novo e imenso público do *rock,* como Miles
 Davis é John Coltrane. Coltrane, aliás, ficaria como um símbolo destes
 anos críticos. Ao iniciar sua fase modal, ele mergulhou em outras
-dimensões e tradições musicais: a africana *(África Brass, Kulu Sé Mama),* a espanhola
-*(Olé),* a indiana (Om). O *mainstream,* a corrente principal do
+dimensões e tradições musicais: a africana (*África Brass, Kulu Sé Mama*), a espanhola
+(*Olé*), a indiana (*Om*). O *mainstream,* a corrente principal do
 *jazz,* parecia ter secado para Coltrane e, antes de morrer – aos 40
 anos, em 1967
 – ele se entregava a longos e torturados solos de inspiração mística
@@ -1961,7 +1957,7 @@ eram ligados no *rock,* mas a maioria atuava como uma espécie de ponte
 entre o *jazz* e a geração de Woodstock. E foi fazendo uso de maciça
 instrumentação eletrônica e eventualmente até da batida do *rock* que
 Miles Davis gravou o álbum *Bitches Brew* (1970), inaugurando mais uma
-fase em sua carreira, a da *fusion* (fusão *rock* + *jazz).* Para
+fase em sua carreira, a da *fusion* (fusão *rock* + *jazz*). Para
 muitos jazzófilos, estas concessões ao *rock* eram uma verdadeira
 heresia. Outros aceitavam a batida do *rock* como mais um ritmo a ser
 absorvido pelo *jazz,* que já havia explorado compassos tão exóticos
@@ -1998,7 +1994,7 @@ que fizeram de Keith Jarrett uma espécie de Rachmaninoft do *jazz,*
 atuando num nível de exigência tão ou mais rigoroso que o dos
 concertistas clássicos. O que ele parece buscar, em suas longas explorações solitárias ao piano exigindo uma concentração absoluta de si
 mesmo e da plateia – é algo como a arte espontânea ou o *satori,* a
-iluminação espiritual, dos mestres zenbudistas.
+iluminação espiritual, dos mestres zen-budistas.
 
 O que Keith Jarrett representa para o piano, Anthony Braxton representa
 para o saxofone. Nascido também em 1945 – ano em que Charlie Parker
@@ -2295,4 +2291,4 @@ imaginação criadora levado às últimas consequências.
 As opiniões expressas neste livro são as do autor, podem não ser
 assuas. Caso você ache que vale a pena escrever um outro livro sobre
 o mesmo tema, nós estamos dispostos a estudar sua publicação com o
-mesmo título como “segunda visão ”.
+mesmo título como “segunda visão”.
